@@ -1,26 +1,43 @@
 # ⚡ Satyam Kumar Singh — AI/ML Engineer Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-AI%2FML-111827?logo=googlechrome&logoColor=white)](https://github.com/satyamkr11/Satyam-Kumar-Singh-AI-Engineer)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![GitHub](https://img.shields.io/badge/GitHub-satyamkr11-181717?logo=github&logoColor=white)](https://github.com/satyamkr11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumar-singh-439225303)
 
-A modern, responsive, recruiter-friendly personal portfolio for Satyam Kumar Singh, showcasing AI/ML projects, technical skills, education, certifications, and professional contact information.
+A modern, responsive personal portfolio focused on **Artificial Intelligence, Machine Learning, Data Analytics, and deployment**.
 
-## ✨ Highlights
+## 👨‍💻 About
 
-- Modern personal-brand hero section
-- Skills grouped by programming, AI/data, cloud, and professional strengths
-- Project cards with GitHub and certificate links
-- Education and career-goal section
-- Certifications with local assets
-- Sports and leadership section
-- Contact links
-- Responsive navigation and layout
+**Satyam Kumar Singh**  
+B.Tech — Artificial Intelligence & Machine Learning  
+Greater Noida, India
 
-## 🧰 Tech Stack
+I am building toward an **AI/ML Engineer** career through practical projects, machine-learning experimentation, cloud deployment, and continuous technical learning.
 
-HTML5 · CSS3 · JavaScript
+## 🧠 Focus Areas
+
+- Machine Learning
+- Deep Learning
+- Data Analytics
+- Generative AI & LLMs
+- Computer Vision & NLP
+- Cloud & Deployment
+- MLOps fundamentals
+
+## 🛠️ Technical Stack
+
+**Programming:** Python · C++ · Java · JavaScript · SQL  
+**Data & ML:** NumPy · Pandas · Matplotlib · Scikit-learn · TensorFlow · PyTorch  
+**Web:** HTML · CSS · JavaScript · React · Flask · Django  
+**Cloud & Tools:** AWS · EC2 · Git · GitHub · VS Code · Google Colab
+
+## ✨ Portfolio Highlights
+
+- AI/ML project portfolio
+- Internship and job-simulation projects
+- Responsive personal portfolio website
+- AWS EC2 deployment experience
+- Project documentation designed for recruiters and collaborators
 
 ## 📁 Structure
 
@@ -34,19 +51,15 @@ HTML5 · CSS3 · JavaScript
     ├── style.css
     └── README.md
 
-## 🌐 Deployment
+## 🌐 Deployment Options
 
-The project is structured for static deployment on:
+The project is structured for static deployment using **GitHub Pages, Netlify, Vercel, or AWS EC2 + Apache2**.
 
-- GitHub Pages
-- Netlify
-- Vercel
-- AWS EC2 + Apache2
+## 🔗 Connect
 
-## 👨‍💻 Contact
+- [GitHub](https://github.com/satyamkr11)
+- [LinkedIn](https://www.linkedin.com/in/satyam-kumar-singh-439225303)
 
-**Satyam Kumar Singh**
+---
 
-[GitHub](https://github.com/satyamkr11) · [LinkedIn](https://www.linkedin.com/in/satyam-kumar-singh-439225303)
-
-> Building toward AI/ML engineering through projects, learning, and deployment.
+**Building practical AI/ML projects and moving toward production-ready AI engineering. 🚀**
